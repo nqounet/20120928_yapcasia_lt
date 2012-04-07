@@ -1,0 +1,1349 @@
+[Thu Mar 15 00:10:25 2012] [info] Listening at "http://*:3000".
+[Thu Mar 15 00:10:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:10:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:10:34 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:10:34 2012] [debug] 200 OK (0.071351s, 14.015/s).
+[Thu Mar 15 00:10:34 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:10:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:10:34 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:10:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:10:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:10:34 2012] [debug] 404 Not Found (0.021886s, 45.691/s).
+[Thu Mar 15 00:10:36 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:10:36 2012] [debug] 200 OK (0.000831s, 1203.369/s).
+[Thu Mar 15 00:10:36 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:10:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:10:36 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:10:36 2012] [debug] 404 Not Found (0.008911s, 112.221/s).
+[Thu Mar 15 00:13:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:13:57 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:13:57 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:13:57 2012] [debug] 200 OK (0.021239s, 47.083/s).
+[Thu Mar 15 00:13:58 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:13:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:13:58 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:13:58 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:13:58 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:13:58 2012] [debug] 404 Not Found (0.017170s, 58.241/s).
+[Thu Mar 15 00:14:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:02 2012] [debug] 200 OK (0.000824s, 1213.592/s).
+[Thu Mar 15 00:14:02 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:02 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:02 2012] [debug] 404 Not Found (0.006929s, 144.321/s).
+[Thu Mar 15 00:14:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:02 2012] [debug] 200 OK (0.000838s, 1193.317/s).
+[Thu Mar 15 00:14:02 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:02 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:02 2012] [debug] 404 Not Found (0.005898s, 169.549/s).
+[Thu Mar 15 00:14:09 2012] [debug] GET /examples/index.htm (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:09 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:09 2012] [debug] 404 Not Found (0.007863s, 127.178/s).
+[Thu Mar 15 00:14:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:19 2012] [debug] 200 OK (0.000775s, 1290.323/s).
+[Thu Mar 15 00:14:19 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:19 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:19 2012] [debug] 404 Not Found (0.008611s, 116.131/s).
+[Thu Mar 15 00:14:22 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:22 2012] [debug] 200 OK (0.000838s, 1193.317/s).
+[Thu Mar 15 00:14:22 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:22 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:22 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:22 2012] [debug] 404 Not Found (0.005949s, 168.095/s).
+[Thu Mar 15 00:14:37 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:37 2012] [debug] 200 OK (0.000615s, 1626.016/s).
+[Thu Mar 15 00:14:37 2012] [debug] GET /pictures/cover.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:14:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:14:37 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:14:37 2012] [debug] 404 Not Found (0.005870s, 170.358/s).
+[Thu Mar 15 00:17:10 2012] [info] Listening at "http://*:3000".
+[Thu Mar 15 00:17:17 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:17:17 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:17:17 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:17:17 2012] [debug] 200 OK (0.021060s, 47.483/s).
+[Thu Mar 15 00:18:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:18:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:18:25 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:18:25 2012] [error] syntax error at template "index.html.ep" line 2, near "<header class="caption">".
+ title "
+1: % layout 'default'
+2: % title 'Welcome to Mojolicious';
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+7: <div class="slide cover" id="Cover"><div>
+
+[Thu Mar 15 00:18:25 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:18:25 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:18:25 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:18:26 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:18:26 2012] [debug] 500 Internal Server Error (0.088882s, 11.251/s).
+[Thu Mar 15 00:19:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:19:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:19:11 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:19:11 2012] [error] syntax error at template "index.html.ep" line 1, near "% title 'Welcome to Mojolicious';".
+1: % layouts 'default'
+2: % title 'Welcome to Mojolicious';
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+
+[Thu Mar 15 00:19:11 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:19:11 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:19:11 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:11 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:11 2012] [debug] 500 Internal Server Error (0.044423s, 22.511/s).
+[Thu Mar 15 00:19:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:19:24 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:19:24 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:19:24 2012] [error] syntax error at template "index.html.ep" line 1, near "% title 'Welcome to Mojolicious';".
+1: % layouts 'default';
+2: % title 'Welcome to Mojolicious';
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+
+[Thu Mar 15 00:19:24 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:19:24 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:19:24 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:24 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:24 2012] [debug] 500 Internal Server Error (0.044608s, 22.418/s).
+[Thu Mar 15 00:19:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:19:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:19:54 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:19:54 2012] [error] syntax error at template "index.html.ep" line 2, near "<header class="caption">".
+ title "
+1: % layout 'default'
+2: % title 'Welcome to Mojolicious'
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+7: <div class="slide cover" id="Cover"><div>
+
+[Thu Mar 15 00:19:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:19:54 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:19:54 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:54 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:19:54 2012] [debug] 500 Internal Server Error (0.066044s, 15.141/s).
+[Thu Mar 15 00:20:52 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:20:52 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:20:52 2012] [error] syntax error at template "index.html.ep" line 2, near "<header class="caption">".
+ title "
+1: % layout 'default'
+2: % title 'Welcome to Mojolicious'
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+7: <div class="slide cover" id="Cover"><div>
+
+[Thu Mar 15 00:20:52 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:20:52 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:20:52 2012] [debug] 500 Internal Server Error (0.013376s, 74.761/s).
+[Thu Mar 15 00:20:52 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:20:52 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:20:52 2012] [error] syntax error at template "index.html.ep" line 2, near "<header class="caption">".
+ title "
+1: % layout 'default'
+2: % title 'Welcome to Mojolicious'
+3: <header class="caption">
+4:   <h1>Shower Presentation Template</h1>
+5:   <p>Vadim Makeev, Opera Software</p>
+6: </header>
+7: <div class="slide cover" id="Cover"><div>
+
+[Thu Mar 15 00:20:52 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:20:52 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:20:52 2012] [debug] 500 Internal Server Error (0.012211s, 81.893/s).
+[Thu Mar 15 00:23:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:23:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:23:54 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:23:54 2012] [error] syntax error at template "index.html.ep" line 2, near "<html lang="ja-JP">".
+$_M "
+syntax error at template "index.html.ep" line 14, near "  <h1>Shower Presentation Template</h1>".
+$_M "
+1: % title 'Welcome to Mojolicious'
+2: <!DOCTYPE html>
+3: <html lang="ja-JP">
+4: <head>
+5:   <meta charset="<%= app->renderer->encoding %>">
+6:   <title><%= title %></title>
+7: 	<meta name="viewport" content="width=1274, user-scalable=no">
+
+[Thu Mar 15 00:23:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:23:54 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:23:54 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:23:54 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:23:54 2012] [debug] 500 Internal Server Error (0.045494s, 21.981/s).
+[Thu Mar 15 00:24:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:24:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:24:25 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:24:25 2012] [error] syntax error at template "index.html.ep" line 2, near "<html lang="ja-JP">".
+$_M "
+1: % title 'Welcome to Mojolicious'
+2: <!DOCTYPE html>
+3: <html lang="ja-JP">
+4: <head>
+5:   <meta charset="<%= app->renderer->encoding %>">
+6:   <title><%= title %></title>
+7: 	<meta name="viewport" content="width=1274, user-scalable=no">
+
+[Thu Mar 15 00:24:25 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:24:25 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:24:25 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:24:26 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:24:26 2012] [debug] 500 Internal Server Error (0.046392s, 21.555/s).
+[Thu Mar 15 00:25:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:25:51 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:25:51 2012] [error] syntax error at template "index.html.ep" line 2, near "<html lang="ja-JP">".
+$_M "
+1: % title 'Welcome to Mojolicious'
+2: <!DOCTYPE html>
+3: <html lang="ja-JP">
+4: <head>
+5:   <meta charset="<%= app->renderer->encoding %>">
+6:   <title><%= title %></title>
+7: 	<meta name="viewport" content="width=1274, user-scalable=no">
+
+[Thu Mar 15 00:25:51 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 00:25:51 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 00:25:51 2012] [debug] 500 Internal Server Error (0.012967s, 77.119/s).
+[Thu Mar 15 00:26:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:26:00 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:26:00 2012] [debug] 200 OK (0.008635s, 115.808/s).
+[Thu Mar 15 00:26:00 2012] [debug] GET /shower/script/script.js (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:26:00 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:26:00 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:26:00 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:26:00 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:26:00 2012] [debug] 404 Not Found (0.016251s, 61.535/s).
+[Thu Mar 15 00:29:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:29:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:29:38 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:29:38 2012] [debug] 200 OK (0.022531s, 44.383/s).
+[Thu Mar 15 00:29:38 2012] [debug] GET /shower/script/script.js (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:29:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 00:29:38 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 00:29:38 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:29:38 2012] [debug] Rendering inline template.
+[Thu Mar 15 00:29:38 2012] [debug] 404 Not Found (0.015792s, 63.323/s).
+[Thu Mar 15 00:33:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:33:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:33:31 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:33:31 2012] [debug] 200 OK (0.023427s, 42.686/s).
+[Thu Mar 15 00:34:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 00:34:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 00:34:08 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 00:34:08 2012] [debug] 200 OK (0.025133s, 39.788/s).
+[Thu Mar 15 10:16:14 2012] [info] Listening at "http://*:3000".
+[Thu Mar 15 10:16:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 10:16:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 10:16:34 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 10:16:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 10:16:34 2012] [debug] 200 OK (0.025683s, 38.936/s).
+[Thu Mar 15 10:16:34 2012] [debug] GET /shower/script/script.js (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 10:16:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 10:16:34 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 10:16:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 10:16:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 10:16:34 2012] [debug] 404 Not Found (0.016128s, 62.004/s).
+[Thu Mar 15 10:17:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 10:17:04 2012] [debug] 200 OK (0.002262s, 442.087/s).
+[Thu Mar 15 10:17:04 2012] [debug] GET /shower/script/script.js (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 10:17:04 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 15 10:17:04 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 15 10:17:04 2012] [debug] 404 Not Found (0.005630s, 177.620/s).
+[Thu Mar 15 10:17:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 10:17:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 10:17:33 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 10:17:33 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 10:17:33 2012] [debug] 200 OK (0.026898s, 37.177/s).
+[Thu Mar 15 11:06:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:06:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:06:19 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:06:19 2012] [debug] Template "index.txt.ep" not found.
+[Thu Mar 15 11:06:19 2012] [debug] Template "index.txt.ep" not found.
+[Thu Mar 15 11:06:19 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Thu Mar 15 11:06:34 2012] [error] Inactivity timeout.
+[Thu Mar 15 11:07:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:07:40 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:07:40 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:07:40 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:07:40 2012] [debug] 200 OK (0.062346s, 16.040/s).
+[Thu Mar 15 11:07:40 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:09:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:09:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:09:00 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:09:00 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:09:00 2012] [debug] 200 OK (0.024035s, 41.606/s).
+[Thu Mar 15 11:09:00 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:10:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:10:10 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:10:10 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:10:10 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:10:10 2012] [debug] 200 OK (0.023421s, 42.697/s).
+[Thu Mar 15 11:10:10 2012] [error] Can't call method "dumper" without a package or object reference at app.pl line 14.
+
+[Thu Mar 15 11:10:10 2012] [debug] Template "exception.development.markdown.ep" not found.
+[Thu Mar 15 11:10:10 2012] [debug] Template "exception.markdown.ep" not found.
+[Thu Mar 15 11:10:10 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:10:10 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:10:10 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:10:10 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:11:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:11:20 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:11:20 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:11:20 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:11:20 2012] [debug] 200 OK (0.022727s, 44.001/s).
+[Thu Mar 15 11:11:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:11:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:11:34 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:11:34 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:11:34 2012] [debug] 200 OK (0.023428s, 42.684/s).
+[Thu Mar 15 11:11:34 2012] [error] Can't locate object method "log" via package "Mojolicious::Controller" at app.pl line 14.
+
+[Thu Mar 15 11:11:34 2012] [debug] Template "exception.development.markdown.ep" not found.
+[Thu Mar 15 11:11:34 2012] [debug] Template "exception.markdown.ep" not found.
+[Thu Mar 15 11:11:34 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:11:34 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:11:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:11:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:12:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:12:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:12:34 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:12:34 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:12:34 2012] [debug] 200 OK (0.023172s, 43.156/s).
+[Thu Mar 15 11:12:34 2012] [error] Can't locate object method "log" via package "Mojolicious::Controller" at app.pl line 14.
+
+[Thu Mar 15 11:12:34 2012] [debug] Template "exception.development.markdown.ep" not found.
+[Thu Mar 15 11:12:34 2012] [debug] Template "exception.markdown.ep" not found.
+[Thu Mar 15 11:12:34 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:12:34 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:12:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:12:34 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:12:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar 15 11:12:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:12:46 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:12:46 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:12:46 2012] [debug] 200 OK (0.028107s, 35.578/s).
+[Thu Mar 15 11:12:46 2012] [error] Can't locate object method "debug" via package "Mojolicious::Controller" at app.pl line 14.
+
+[Thu Mar 15 11:12:46 2012] [debug] Template "exception.development.markdown.ep" not found.
+[Thu Mar 15 11:12:46 2012] [debug] Template "exception.markdown.ep" not found.
+[Thu Mar 15 11:12:46 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:12:46 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:12:46 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:12:46 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:15:58 2012] [debug] 3b3aec88fc00b04dce00d7d4b37db6f6
+[Thu Mar 15 11:16:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:16:03 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:16:03 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:16:03 2012] [debug] 200 OK (0.023471s, 42.606/s).
+[Thu Mar 15 11:16:03 2012] [error] Can't locate object method "debug" via package "Mojolicious::Controller" at app.pl line 17.
+
+[Thu Mar 15 11:16:03 2012] [debug] Template "exception.development.markdown.ep" not found.
+[Thu Mar 15 11:16:03 2012] [debug] Template "exception.markdown.ep" not found.
+[Thu Mar 15 11:16:03 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:16:03 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:16:03 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:16:03 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:17:02 2012] [debug] 3b3aec88fc00b04dce00d7d4b37db6f6
+[Thu Mar 15 11:17:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:17:03 2012] [debug] Dispatching callback.
+[Thu Mar 15 11:17:03 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:17:03 2012] [debug] 200 OK (0.023561s, 42.443/s).
+[Thu Mar 15 11:17:03 2012] [debug] 1
+[Thu Mar 15 11:17:03 2012] [debug] Rendering template "index.markdown.ep" from DATA section.
+[Thu Mar 15 11:25:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:25:25 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:25:25 2012] [error] Global symbol "$slide" requires explicit package name at template "index.html.ep" line 39, near "  </section>".
+34: <div class="slide" id="UnorderedList"><div>
+35:   <section>
+36:     <header>
+37:       <h2>Unordered List</h2>
+38:     </header>
+39:     <pre><%= $slide %></pre>
+40:   </section>
+41: </div></div>
+
+[Thu Mar 15 11:25:25 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 11:25:25 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 11:25:25 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:25:25 2012] [debug] Rendering inline template.
+[Thu Mar 15 11:25:25 2012] [debug] 500 Internal Server Error (0.090377s, 11.065/s).
+[Thu Mar 15 11:25:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:25:34 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:25:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:25:34 2012] [debug] 200 OK (0.028299s, 35.337/s).
+[Thu Mar 15 11:26:24 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:26:24 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:26:24 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:26:24 2012] [debug] 200 OK (0.024920s, 40.128/s).
+[Thu Mar 15 11:26:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:26:44 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:26:44 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:26:44 2012] [debug] 200 OK (0.024656s, 40.558/s).
+[Thu Mar 15 11:27:20 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:27:20 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:27:20 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:27:20 2012] [debug] 200 OK (0.025389s, 39.387/s).
+[Thu Mar 15 11:27:55 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:27:55 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:27:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:27:55 2012] [debug] 200 OK (0.025361s, 39.431/s).
+[Thu Mar 15 11:28:09 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:28:09 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:28:09 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:28:09 2012] [debug] 200 OK (0.025764s, 38.814/s).
+[Thu Mar 15 11:29:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:29:59 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:29:59 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:29:59 2012] [debug] 200 OK (0.031713s, 31.533/s).
+[Thu Mar 15 11:30:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:30:26 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:30:26 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:30:26 2012] [debug] 200 OK (0.024797s, 40.327/s).
+[Thu Mar 15 11:41:10 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:41:10 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:41:11 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:41:11 2012] [debug] 200 OK (0.025177s, 39.719/s).
+[Thu Mar 15 11:43:30 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:43:30 2012] [debug] 200 OK (0.003088s, 323.834/s).
+[Thu Mar 15 11:47:27 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:47:27 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:47:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:47:27 2012] [debug] 200 OK (0.031231s, 32.019/s).
+[Thu Mar 15 11:47:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:47:46 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:47:46 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:47:46 2012] [debug] 200 OK (0.026198s, 38.171/s).
+[Thu Mar 15 11:50:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:50:35 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:50:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:50:35 2012] [debug] 200 OK (0.026140s, 38.256/s).
+[Thu Mar 15 11:52:58 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 11:52:58 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 11:52:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 11:52:58 2012] [debug] 200 OK (0.027862s, 35.891/s).
+[Thu Mar 15 12:01:37 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:01:37 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:01:37 2012] [error] Can't use string ("") as a subroutine ref while "strict refs" in use at template "index.html.ep" line 15, near "<div class="slide shout" id="twitter"><div>".
+10: </div></div>
+11: % end
+12: <header class="caption">
+13:   <h1>MojoliciousでPJAX</h1>
+14: </header>
+15: % $shout->('cover', 'うわさのPJAXをMojoliciousで使ってみたよ');
+16: <div class="slide shout" id="twitter"><div>
+17:   <section>
+18:     <header>
+19:       <h2>@nqounet</h2>
+20:     </header>
+
+[Thu Mar 15 12:01:37 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 12:01:37 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 12:01:37 2012] [debug] Rendering inline template.
+[Thu Mar 15 12:01:37 2012] [debug] Rendering inline template.
+[Thu Mar 15 12:01:37 2012] [debug] 500 Internal Server Error (0.077012s, 12.985/s).
+[Thu Mar 15 12:02:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:02:05 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:02:05 2012] [error] Can't use string ("") as a subroutine ref while "strict refs" in use at template "index.html.ep" line 15, near "<div class="slide shout" id="twitter"><div>".
+10: </div></div>
+11: % end
+12: <header class="caption">
+13:   <h1>MojoliciousでPJAX</h1>
+14: </header>
+15: %= $shout->('cover', 'うわさのPJAXをMojoliciousで使ってみたよ');
+16: <div class="slide shout" id="twitter"><div>
+17:   <section>
+18:     <header>
+19:       <h2>@nqounet</h2>
+20:     </header>
+
+[Thu Mar 15 12:02:05 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 12:02:05 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 12:02:05 2012] [debug] Rendering inline template.
+[Thu Mar 15 12:02:05 2012] [debug] Rendering inline template.
+[Thu Mar 15 12:02:05 2012] [debug] 500 Internal Server Error (0.045115s, 22.166/s).
+[Thu Mar 15 12:02:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:02:44 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:02:44 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:02:44 2012] [debug] 200 OK (0.025610s, 39.047/s).
+[Thu Mar 15 12:03:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:03:31 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:03:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:03:31 2012] [debug] 200 OK (0.025672s, 38.953/s).
+[Thu Mar 15 12:03:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:03:49 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:03:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:03:49 2012] [debug] 200 OK (0.025453s, 39.288/s).
+[Thu Mar 15 12:04:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:04:02 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:04:02 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:04:02 2012] [debug] 200 OK (0.026352s, 37.948/s).
+[Thu Mar 15 12:07:06 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:07:06 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:07:06 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:07:06 2012] [debug] 200 OK (0.025524s, 39.179/s).
+[Thu Mar 15 12:09:15 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:09:15 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:09:15 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:09:15 2012] [debug] 200 OK (0.033002s, 30.301/s).
+[Thu Mar 15 12:33:33 2012] [info] Listening at "http://*:3000".
+[Thu Mar 15 12:46:01 2012] [info] Listening at "http://*:3000".
+[Thu Mar 15 12:46:42 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:46:42 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:46:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:46:42 2012] [debug] 200 OK (0.102897s, 9.718/s).
+[Thu Mar 15 12:51:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 12:51:35 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 12:51:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 12:51:35 2012] [debug] 200 OK (0.030284s, 33.021/s).
+[Thu Mar 15 13:18:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:18:59 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:19:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:19:00 2012] [debug] 200 OK (1.166231s, 0.857/s).
+[Thu Mar 15 13:19:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:19:23 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:19:23 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:19:23 2012] [debug] 200 OK (0.032289s, 30.970/s).
+[Thu Mar 15 13:19:39 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:19:39 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:19:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:19:39 2012] [debug] 200 OK (0.030295s, 33.009/s).
+[Thu Mar 15 13:28:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:28:33 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:28:33 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:28:33 2012] [debug] 200 OK (0.038795s, 25.777/s).
+[Thu Mar 15 13:30:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:30:18 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:30:18 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:30:18 2012] [debug] 200 OK (0.028470s, 35.125/s).
+[Thu Mar 15 13:30:30 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:30:30 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:30:30 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:30:30 2012] [debug] 200 OK (0.030057s, 33.270/s).
+[Thu Mar 15 13:33:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:33:33 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:33:33 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:33:33 2012] [debug] 200 OK (0.027869s, 35.882/s).
+[Thu Mar 15 13:39:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:39:45 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:39:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 13:39:45 2012] [debug] 200 OK (0.062052s, 16.116/s).
+[Thu Mar 15 13:40:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:40:18 2012] [debug] 200 OK (0.003304s, 302.663/s).
+[Thu Mar 15 13:49:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:49:35 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:49:35 2012] [error] Global symbol "$text" requires explicit package name at template "index.html.ep" line 5, near "<div class="slide<%= $args->{shout} ? ' shout' : '' %>" id="<%= sprintf "No%03d", $slide_id++ %>"><div>".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 18, near "  shout => 1,".
+syntax error at template "index.html.ep" line 18, near "  shout => 1,".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 23, near "%= $shout->('IT Office 西宮原');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 24, near "%= $shout->('@nqounet');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 25, near "%= $shout->('PJAXとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 26, near "%= $shout->('PJAX = history.pushState + AJAX');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 27, near "%= $shout->('pushStateを使ってブラウザの履歴に対する操作をし、HTMLの一部のみを書き換える動作でもブラウザの戻る／進む機能を実現できる方法のひとつ。Ajaxなページを再現し、かつURLを見慣れた方法で自然にpermalinkを表現できる。');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 28, near "%= $shout->('history.pushStateとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 29, near "%= $shout->('Ajaxとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 30, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 31, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 32, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 33, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 34, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 35, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 36, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 37, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 38, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 39, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 40, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 41, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 42.
+Missing right curly or square bracket at template "index.html.ep" line 42.
+(eval 240) has too many errors.
+1: % layout 'default', title 'MojoliciousでPJAX';
+2: % my $slide_id = 0;
+3: % my $slide = begin
+4:   % my ($args) = @_;
+5:   % $text = '404 not found' unless $args->{title};
+6: <div class="slide<%= $args->{shout} ? ' shout' : '' %>" id="<%= sprintf "No%03d", $slide_id++ %>"><div>
+7:   <section>
+8:     <header>
+9:       <h2><%= $args->{title} %></h2>
+10:     </header>
+
+[Thu Mar 15 13:49:35 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 13:49:35 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 13:49:35 2012] [debug] Rendering inline template.
+[Thu Mar 15 13:49:35 2012] [debug] Rendering inline template.
+[Thu Mar 15 13:49:35 2012] [debug] 500 Internal Server Error (0.100169s, 9.983/s).
+[Thu Mar 15 13:50:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 13:50:00 2012] [debug] Rendering template "index.html.ep".
+[Thu Mar 15 13:50:00 2012] [error] Global symbol "$shout" requires explicit package name at template "index.html.ep" line 17, near "  shout => 1,".
+syntax error at template "index.html.ep" line 17, near "  shout => 1,".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 24, near "%= $shout->('IT Office 西宮原');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 25, near "%= $shout->('@nqounet');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 26, near "%= $shout->('PJAXとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 27, near "%= $shout->('PJAX = history.pushState + AJAX');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 28, near "%= $shout->('pushStateを使ってブラウザの履歴に対する操作をし、HTMLの一部のみを書き換える動作でもブラウザの戻る／進む機能を実現できる方法のひとつ。Ajaxなページを再現し、かつURLを見慣れた方法で自然にpermalinkを表現できる。');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 29, near "%= $shout->('history.pushStateとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 30, near "%= $shout->('Ajaxとは何か？');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 31, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 32, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 33, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 34, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 35, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 36, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 37, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 38, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 39, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 40, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 41, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 42, near "%= $shout->('');".
+Global symbol "$shout" requires explicit package name at template "index.html.ep" line 43.
+Missing right curly or square bracket at template "index.html.ep" line 43.
+(eval 240) has too many errors.
+12: </div></div>
+13: % end
+14: <header class="caption">
+15:   <h1>MojoliciousでPJAX</h1>
+16: </header>
+17: %= $shout->({
+18:   shout => 1,
+19:   title => 'うわさのPJAXをMojoliciousで使ってみたよ',
+20:   contents => [],
+21: });
+22: __END__
+
+[Thu Mar 15 13:50:00 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar 15 13:50:00 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar 15 13:50:00 2012] [debug] Rendering inline template.
+[Thu Mar 15 13:50:00 2012] [debug] Rendering inline template.
+[Thu Mar 15 13:50:00 2012] [debug] 500 Internal Server Error (0.047660s, 20.982/s).
+[Thu Mar 15 14:39:40 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 14:39:40 2012] [debug] Dispatching callback.
+[Thu Mar 15 14:39:40 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 14:39:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 14:39:40 2012] [debug] 200 OK (0.104762s, 9.545/s).
+[Thu Mar 15 14:40:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 14:40:35 2012] [debug] Dispatching callback.
+[Thu Mar 15 14:40:35 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 14:40:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 15 14:40:35 2012] [debug] 200 OK (0.029236s, 34.204/s).
+[Thu Mar 15 14:45:27 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 14:45:27 2012] [debug] Dispatching callback.
+[Thu Mar 15 14:45:27 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 14:45:27 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 14:45:27 2012] [debug] 200 OK (0.031080s, 32.175/s).
+[Thu Mar 15 14:55:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 14:55:18 2012] [debug] Dispatching callback.
+[Thu Mar 15 14:55:18 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 14:55:18 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 14:55:18 2012] [debug] 200 OK (0.028233s, 35.420/s).
+[Thu Mar 15 14:59:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 14:59:43 2012] [debug] Dispatching callback.
+[Thu Mar 15 14:59:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 14:59:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 14:59:43 2012] [debug] 200 OK (0.028014s, 35.696/s).
+[Thu Mar 15 15:12:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:12:44 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:12:44 2012] [debug] 200 OK (0.002827s, 353.732/s).
+[Thu Mar 15 15:14:17 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:14:17 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:14:17 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 15:14:17 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 15:14:17 2012] [debug] 200 OK (0.033899s, 29.499/s).
+[Thu Mar 15 15:18:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:18:43 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:18:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 15:18:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 15:18:43 2012] [debug] 200 OK (0.027997s, 35.718/s).
+[Thu Mar 15 15:19:37 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:19:37 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:19:37 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 15:19:37 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 15:19:37 2012] [debug] 200 OK (0.028608s, 34.955/s).
+[Thu Mar 15 15:20:01 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:20:01 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:20:01 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 15:20:01 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 15:20:01 2012] [debug] 200 OK (0.029685s, 33.687/s).
+[Thu Mar 15 15:22:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 15:22:04 2012] [debug] Dispatching callback.
+[Thu Mar 15 15:22:04 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 15:22:04 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 15:22:04 2012] [debug] 200 OK (0.028948s, 34.545/s).
+[Thu Mar 15 17:25:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:25:21 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:25:21 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:25:21 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:25:21 2012] [debug] 200 OK (0.030796s, 32.472/s).
+[Thu Mar 15 17:41:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:41:33 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:41:33 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:41:33 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:41:34 2012] [debug] 200 OK (0.035535s, 28.141/s).
+[Thu Mar 15 17:42:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:42:38 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:42:38 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:42:38 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:42:38 2012] [debug] 200 OK (0.028814s, 34.705/s).
+[Thu Mar 15 17:43:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:43:07 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:43:07 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:43:07 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:43:07 2012] [debug] 200 OK (0.028669s, 34.881/s).
+[Thu Mar 15 17:43:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:43:46 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:43:46 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:43:46 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:43:46 2012] [debug] 200 OK (0.029070s, 34.400/s).
+[Thu Mar 15 17:56:22 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:56:22 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:56:22 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:56:22 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:56:22 2012] [debug] 200 OK (0.029185s, 34.264/s).
+[Thu Mar 15 17:59:01 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 17:59:01 2012] [debug] Dispatching callback.
+[Thu Mar 15 17:59:01 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 17:59:01 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 17:59:01 2012] [debug] 200 OK (0.028709s, 34.832/s).
+[Thu Mar 15 22:39:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:39:35 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:39:35 2012] [debug] 200 OK (0.005866s, 170.474/s).
+[Thu Mar 15 22:40:13 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:40:13 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:40:13 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:40:13 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:40:13 2012] [debug] 200 OK (0.065732s, 15.213/s).
+[Thu Mar 15 22:40:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:40:38 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:40:38 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:40:38 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:40:38 2012] [debug] 200 OK (0.029713s, 33.655/s).
+[Thu Mar 15 22:40:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:40:53 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:40:53 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:40:53 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:40:53 2012] [debug] 200 OK (0.028907s, 34.594/s).
+[Thu Mar 15 22:41:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:41:44 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:41:44 2012] [debug] 200 OK (0.003307s, 302.389/s).
+[Thu Mar 15 22:42:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:42:48 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:42:48 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:42:48 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:42:48 2012] [debug] 200 OK (0.035722s, 27.994/s).
+[Thu Mar 15 22:43:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:43:03 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:43:03 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:43:03 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:43:03 2012] [debug] 200 OK (0.029502s, 33.896/s).
+[Thu Mar 15 22:44:16 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:44:16 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:44:16 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:44:16 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:44:16 2012] [debug] 200 OK (0.034016s, 29.398/s).
+[Thu Mar 15 22:44:41 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Thu Mar 15 22:44:41 2012] [debug] Dispatching callback.
+[Thu Mar 15 22:44:41 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Thu Mar 15 22:44:41 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Thu Mar 15 22:44:41 2012] [debug] 200 OK (0.028805s, 34.716/s).
+[Fri Mar 16 01:18:50 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:18:50 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:18:50 2012] [debug] 200 OK (0.008180s, 122.249/s).
+[Fri Mar 16 01:20:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:20:00 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:20:00 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:20:00 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:20:00 2012] [debug] 200 OK (0.076821s, 13.017/s).
+[Fri Mar 16 01:20:41 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:20:41 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:20:41 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:20:41 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:20:41 2012] [debug] 200 OK (0.028841s, 34.673/s).
+[Fri Mar 16 01:21:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:21:29 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:21:29 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:21:29 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:21:29 2012] [debug] 200 OK (0.029743s, 33.621/s).
+[Fri Mar 16 01:37:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:37:05 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:37:05 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:37:05 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:37:05 2012] [debug] 200 OK (0.030454s, 32.836/s).
+[Fri Mar 16 01:41:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:41:48 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:41:48 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:41:48 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:41:48 2012] [debug] 200 OK (0.031727s, 31.519/s).
+[Fri Mar 16 01:48:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 01:48:23 2012] [debug] Dispatching callback.
+[Fri Mar 16 01:48:23 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 01:48:23 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 01:48:23 2012] [debug] 200 OK (0.029484s, 33.917/s).
+[Fri Mar 16 10:24:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:24:59 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:24:59 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 10:24:59 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 10:24:59 2012] [debug] 200 OK (0.119360s, 8.378/s).
+[Fri Mar 16 10:25:00 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:25:00 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:25:00 2012] [debug] 200 OK (0.003106s, 321.958/s).
+[Fri Mar 16 10:26:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:26:43 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:26:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 10:26:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 10:26:43 2012] [debug] 200 OK (0.034586s, 28.913/s).
+[Fri Mar 16 10:28:18 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:28:18 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:28:18 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 10:28:18 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 10:28:18 2012] [debug] 200 OK (0.029625s, 33.755/s).
+[Fri Mar 16 10:28:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:28:48 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:28:48 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 10:28:48 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 10:28:48 2012] [debug] 200 OK (0.034056s, 29.363/s).
+[Fri Mar 16 10:53:50 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:53:50 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:53:50 2012] [debug] 200 OK (0.006936s, 144.175/s).
+[Fri Mar 16 10:54:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 10:54:54 2012] [debug] Dispatching callback.
+[Fri Mar 16 10:54:54 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 10:54:54 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 10:54:54 2012] [debug] 200 OK (0.048537s, 20.603/s).
+[Fri Mar 16 11:06:16 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 11:06:16 2012] [debug] Dispatching callback.
+[Fri Mar 16 11:06:16 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 11:06:16 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 11:06:16 2012] [debug] 200 OK (0.029583s, 33.803/s).
+[Fri Mar 16 11:07:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 11:07:19 2012] [debug] Dispatching callback.
+[Fri Mar 16 11:07:19 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 11:07:19 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 11:07:19 2012] [debug] 200 OK (0.028884s, 34.621/s).
+[Fri Mar 16 11:07:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 11:07:44 2012] [debug] Dispatching callback.
+[Fri Mar 16 11:07:44 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 11:07:44 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 11:07:44 2012] [debug] 200 OK (0.028717s, 34.823/s).
+[Fri Mar 16 14:48:06 2012] [info] Listening at "http://*:3000".
+[Fri Mar 16 14:48:10 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 14:48:11 2012] [debug] Dispatching callback.
+[Fri Mar 16 14:48:11 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 14:48:11 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 14:48:11 2012] [debug] 200 OK (0.200258s, 4.994/s).
+[Fri Mar 16 15:00:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:00:29 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:00:29 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 15:00:29 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 15:00:29 2012] [debug] 200 OK (0.027089s, 36.915/s).
+[Fri Mar 16 15:02:20 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:02:20 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:02:20 2012] [debug] 200 OK (0.003019s, 331.236/s).
+[Fri Mar 16 15:02:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:02:54 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:02:54 2012] [debug] 200 OK (0.003518s, 284.252/s).
+[Fri Mar 16 15:02:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:02:59 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:02:59 2012] [debug] 200 OK (0.004300s, 232.558/s).
+[Fri Mar 16 15:04:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:04:35 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:04:35 2012] [debug] 200 OK (0.003035s, 329.489/s).
+[Fri Mar 16 15:06:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:06:45 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:06:45 2012] [debug] 200 OK (0.002948s, 339.213/s).
+[Fri Mar 16 15:08:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:08:05 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:08:05 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 15:08:05 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 15:08:05 2012] [debug] 200 OK (0.026853s, 37.240/s).
+[Fri Mar 16 15:08:36 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:08:36 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:08:36 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 15:08:36 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 15:08:36 2012] [debug] 200 OK (0.028601s, 34.964/s).
+[Fri Mar 16 15:11:15 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:11:15 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:11:15 2012] [debug] 200 OK (0.003977s, 251.446/s).
+[Fri Mar 16 15:11:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 15:11:33 2012] [debug] Dispatching callback.
+[Fri Mar 16 15:11:33 2012] [debug] 200 OK (0.003919s, 255.167/s).
+[Fri Mar 16 17:48:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 17:48:21 2012] [debug] Dispatching callback.
+[Fri Mar 16 17:48:21 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 17:48:21 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 17:48:21 2012] [debug] 200 OK (0.148971s, 6.713/s).
+[Fri Mar 16 17:54:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 17:54:08 2012] [debug] Dispatching callback.
+[Fri Mar 16 17:54:08 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 17:54:08 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 17:54:08 2012] [debug] 200 OK (0.027544s, 36.306/s).
+[Fri Mar 16 17:59:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 17:59:31 2012] [debug] Dispatching callback.
+[Fri Mar 16 17:59:31 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 17:59:31 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 17:59:31 2012] [debug] 200 OK (0.026771s, 37.354/s).
+[Fri Mar 16 17:59:55 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 17:59:55 2012] [debug] Dispatching callback.
+[Fri Mar 16 17:59:55 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 17:59:55 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 17:59:55 2012] [debug] 200 OK (0.027117s, 36.877/s).
+[Fri Mar 16 18:00:09 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:00:09 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:00:09 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:00:09 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:00:09 2012] [debug] 200 OK (0.027363s, 36.546/s).
+[Fri Mar 16 18:11:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:11:51 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:11:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:11:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:11:51 2012] [debug] 200 OK (0.026987s, 37.055/s).
+[Fri Mar 16 18:12:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:12:07 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:12:07 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:12:07 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:12:07 2012] [debug] 200 OK (0.027774s, 36.005/s).
+[Fri Mar 16 18:16:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:16:35 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:16:35 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:16:35 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:16:35 2012] [debug] 200 OK (0.028237s, 35.415/s).
+[Fri Mar 16 18:20:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:20:23 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:20:23 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:20:23 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:20:23 2012] [debug] 200 OK (0.030085s, 33.239/s).
+[Fri Mar 16 18:23:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:23:44 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:23:44 2012] [debug] 200 OK (0.004657s, 214.731/s).
+[Fri Mar 16 18:23:58 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:23:58 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:23:58 2012] [debug] 200 OK (0.005321s, 187.935/s).
+[Fri Mar 16 18:24:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:24:11 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:24:11 2012] [debug] 200 OK (0.005065s, 197.433/s).
+[Fri Mar 16 18:25:11 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:25:11 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:25:11 2012] [debug] 200 OK (0.003557s, 281.136/s).
+[Fri Mar 16 18:25:16 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:25:16 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:25:16 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:25:16 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:25:16 2012] [debug] 200 OK (0.027595s, 36.238/s).
+[Fri Mar 16 18:25:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:25:49 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:25:49 2012] [debug] 200 OK (0.003853s, 259.538/s).
+[Fri Mar 16 18:36:24 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:36:24 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:36:24 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:36:24 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:36:24 2012] [debug] 200 OK (0.033000s, 30.303/s).
+[Fri Mar 16 18:36:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:36:25 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:36:25 2012] [debug] 200 OK (0.003415s, 292.826/s).
+[Fri Mar 16 18:44:57 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:44:57 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:44:57 2012] [debug] 200 OK (0.003393s, 294.724/s).
+[Fri Mar 16 18:46:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:46:34 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:46:34 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:46:34 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:46:34 2012] [debug] 200 OK (0.028018s, 35.691/s).
+[Fri Mar 16 18:47:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:47:53 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:47:53 2012] [debug] 200 OK (0.003283s, 304.599/s).
+[Fri Mar 16 18:48:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:48:02 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:48:02 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:48:02 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:48:02 2012] [debug] 200 OK (0.028444s, 35.157/s).
+[Fri Mar 16 18:50:55 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:50:55 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:50:55 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:50:55 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:50:55 2012] [debug] 200 OK (0.028159s, 35.513/s).
+[Fri Mar 16 18:52:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:52:04 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:52:04 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:52:04 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:52:04 2012] [debug] 200 OK (0.028018s, 35.691/s).
+[Fri Mar 16 18:52:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 18:52:51 2012] [debug] Dispatching callback.
+[Fri Mar 16 18:52:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 18:52:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 18:52:51 2012] [debug] 200 OK (0.029153s, 34.302/s).
+[Fri Mar 16 19:04:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:04:08 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:04:08 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:04:08 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:04:08 2012] [debug] 200 OK (0.027795s, 35.978/s).
+[Fri Mar 16 19:04:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:04:33 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:04:33 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:04:33 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:04:33 2012] [debug] 200 OK (0.027808s, 35.961/s).
+[Fri Mar 16 19:09:06 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:09:06 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:09:06 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:09:06 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:09:06 2012] [debug] 200 OK (0.027803s, 35.967/s).
+[Fri Mar 16 19:11:35 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:11:35 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:11:35 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:11:35 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:11:36 2012] [debug] 200 OK (0.029720s, 33.647/s).
+[Fri Mar 16 19:16:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:16:26 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:16:26 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:16:26 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:16:26 2012] [debug] 200 OK (0.029318s, 34.109/s).
+[Fri Mar 16 19:18:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:18:21 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:18:21 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:18:21 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:18:21 2012] [debug] 200 OK (0.028466s, 35.130/s).
+[Fri Mar 16 19:25:41 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:25:41 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:25:41 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:25:41 2012] [error] Global symbol "@lines" requires explicit package name at template from DATA section "presentation.html.ep" line 21, near "    <pre>".
+Global symbol "@lines" requires explicit package name at template from DATA section "presentation.html.ep" line 23, near "      <code><%= $line %></code>".
+16:       <h2><%== $slide %></h2>
+17:     </header>
+18:   % }
+19:   % elsif ($slide =~ s!\\c!!ms) {
+20:     my @lines = split m!<br />!, $slide;
+21:     <h2><%= shift @lines %></h2>
+22:     <pre>
+23:     % for my $line ( @lines ) {
+24:       <code><%= $line %></code>
+25:     % }
+26:     </pre>
+
+[Fri Mar 16 19:25:41 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar 16 19:25:41 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar 16 19:25:41 2012] [debug] Rendering inline template.
+[Fri Mar 16 19:25:41 2012] [debug] Rendering inline template.
+[Fri Mar 16 19:25:41 2012] [debug] 500 Internal Server Error (0.324335s, 3.083/s).
+[Fri Mar 16 19:26:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:26:03 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:26:03 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:26:03 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:26:03 2012] [debug] 200 OK (0.029148s, 34.308/s).
+[Fri Mar 16 19:26:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:26:51 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:26:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:26:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:26:51 2012] [debug] 200 OK (0.029099s, 34.365/s).
+[Fri Mar 16 19:31:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:31:07 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:31:07 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:31:07 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:31:07 2012] [debug] 200 OK (0.029492s, 33.908/s).
+[Fri Mar 16 19:31:39 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:31:39 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:31:39 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:31:39 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:31:39 2012] [debug] 200 OK (0.029278s, 34.155/s).
+[Fri Mar 16 19:31:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:31:56 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:31:56 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:31:56 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:31:56 2012] [debug] 200 OK (0.029536s, 33.857/s).
+[Fri Mar 16 19:36:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:36:51 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:36:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:36:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:36:51 2012] [debug] 200 OK (0.029505s, 33.893/s).
+[Fri Mar 16 19:37:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:37:43 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:37:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:37:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:37:43 2012] [debug] 200 OK (0.029220s, 34.223/s).
+[Fri Mar 16 19:38:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:38:26 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:38:26 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:38:26 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:38:26 2012] [debug] 200 OK (0.029483s, 33.918/s).
+[Fri Mar 16 19:39:25 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:39:25 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:39:25 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:39:25 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:39:25 2012] [debug] 200 OK (0.030406s, 32.888/s).
+[Fri Mar 16 19:39:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:39:45 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:39:45 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:39:45 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:39:45 2012] [debug] 200 OK (0.029574s, 33.813/s).
+[Fri Mar 16 19:49:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 19:49:02 2012] [debug] Dispatching callback.
+[Fri Mar 16 19:49:03 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 19:49:03 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 19:49:03 2012] [debug] 200 OK (0.029710s, 33.659/s).
+[Fri Mar 16 20:02:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 20:02:48 2012] [debug] Dispatching callback.
+[Fri Mar 16 20:02:48 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 20:02:48 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 20:02:48 2012] [debug] 200 OK (0.029431s, 33.978/s).
+[Fri Mar 16 20:17:28 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 20:17:28 2012] [debug] Dispatching callback.
+[Fri Mar 16 20:17:28 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 20:17:28 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 20:17:28 2012] [debug] 200 OK (0.028471s, 35.123/s).
+[Fri Mar 16 20:30:09 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 20:30:09 2012] [debug] Dispatching callback.
+[Fri Mar 16 20:30:09 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 20:30:09 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 20:30:09 2012] [debug] 200 OK (0.031263s, 31.987/s).
+[Fri Mar 16 20:44:59 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 20:44:59 2012] [debug] Dispatching callback.
+[Fri Mar 16 20:44:59 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 20:44:59 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 20:44:59 2012] [debug] 200 OK (0.030497s, 32.790/s).
+[Fri Mar 16 23:06:30 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:06:30 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:06:30 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:06:30 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:06:31 2012] [debug] 200 OK (0.100413s, 9.959/s).
+[Fri Mar 16 23:08:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:08:44 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:08:44 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:08:44 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:08:44 2012] [debug] 200 OK (0.028871s, 34.637/s).
+[Fri Mar 16 23:08:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:08:51 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:08:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:08:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:08:51 2012] [debug] 200 OK (0.029936s, 33.405/s).
+[Fri Mar 16 23:09:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:09:21 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:09:21 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:09:21 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:09:21 2012] [debug] 200 OK (0.030203s, 33.109/s).
+[Fri Mar 16 23:09:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:09:31 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:09:31 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:09:31 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:09:31 2012] [debug] 200 OK (0.030253s, 33.055/s).
+[Fri Mar 16 23:30:58 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:30:58 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:30:58 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:30:58 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:30:58 2012] [debug] 200 OK (0.029943s, 33.397/s).
+[Fri Mar 16 23:31:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:31:53 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:31:53 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:31:53 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:31:53 2012] [debug] 200 OK (0.029794s, 33.564/s).
+[Fri Mar 16 23:33:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:33:08 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:33:08 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:33:08 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:33:08 2012] [debug] 200 OK (0.029222s, 34.221/s).
+[Fri Mar 16 23:33:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:33:54 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:33:54 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:33:54 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:33:54 2012] [debug] 200 OK (0.029641s, 33.737/s).
+[Fri Mar 16 23:34:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:34:04 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:34:04 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:34:04 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:34:04 2012] [debug] 200 OK (0.029601s, 33.783/s).
+[Fri Mar 16 23:34:22 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:34:22 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:34:22 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:34:22 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:34:22 2012] [debug] 200 OK (0.031196s, 32.055/s).
+[Fri Mar 16 23:35:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:35:26 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:35:26 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:35:26 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:35:26 2012] [debug] 200 OK (0.029373s, 34.045/s).
+[Fri Mar 16 23:35:47 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:35:47 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:35:47 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:35:47 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:35:47 2012] [debug] 200 OK (0.029338s, 34.085/s).
+[Fri Mar 16 23:36:47 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:36:47 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:36:47 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:36:47 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:36:47 2012] [debug] 200 OK (0.028829s, 34.687/s).
+[Fri Mar 16 23:38:42 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:38:42 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:38:42 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:38:42 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:38:42 2012] [debug] 200 OK (0.029608s, 33.775/s).
+[Fri Mar 16 23:39:06 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:39:06 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:39:06 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:39:06 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:39:06 2012] [debug] 200 OK (0.029521s, 33.874/s).
+[Fri Mar 16 23:43:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:43:48 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:43:48 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:43:48 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:43:48 2012] [debug] 200 OK (0.030197s, 33.116/s).
+[Fri Mar 16 23:44:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:44:45 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:44:45 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:44:45 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:44:45 2012] [debug] 200 OK (0.029543s, 33.849/s).
+[Fri Mar 16 23:45:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:45:08 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:45:08 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:45:08 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:45:08 2012] [debug] 200 OK (0.029794s, 33.564/s).
+[Fri Mar 16 23:45:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:45:56 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:45:56 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:45:56 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:45:56 2012] [debug] 200 OK (0.029781s, 33.578/s).
+[Fri Mar 16 23:49:21 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:49:21 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:49:21 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:49:21 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:49:21 2012] [debug] 200 OK (0.032012s, 31.238/s).
+[Fri Mar 16 23:51:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:51:46 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:51:46 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:51:46 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:51:46 2012] [debug] 200 OK (0.029265s, 34.171/s).
+[Fri Mar 16 23:52:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:52:19 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:52:19 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:52:19 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:52:19 2012] [debug] 200 OK (0.029408s, 34.004/s).
+[Fri Mar 16 23:52:32 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:52:32 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:52:32 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:52:32 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:52:32 2012] [debug] 200 OK (0.030938s, 32.323/s).
+[Fri Mar 16 23:54:26 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:54:26 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:54:26 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:54:26 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:54:26 2012] [debug] 200 OK (0.030057s, 33.270/s).
+[Fri Mar 16 23:55:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Fri Mar 16 23:55:08 2012] [debug] Dispatching callback.
+[Fri Mar 16 23:55:08 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Fri Mar 16 23:55:08 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Fri Mar 16 23:55:08 2012] [debug] 200 OK (0.029469s, 33.934/s).
+[Sat Mar 17 00:04:02 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 00:04:02 2012] [debug] Dispatching callback.
+[Sat Mar 17 00:04:02 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 00:04:02 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 00:04:02 2012] [debug] 200 OK (0.030840s, 32.425/s).
+[Sat Mar 17 00:05:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 00:05:03 2012] [debug] Dispatching callback.
+[Sat Mar 17 00:05:03 2012] [debug] 200 OK (0.004317s, 231.642/s).
+[Sat Mar 17 11:04:32 2012] [info] Listening at "http://*:3000".
+[Sat Mar 17 11:04:39 2012] [debug] GET /login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 11:04:39 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 17 11:04:39 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 17 11:04:39 2012] [debug] Rendering inline template.
+[Sat Mar 17 11:04:39 2012] [debug] Rendering inline template.
+[Sat Mar 17 11:04:39 2012] [debug] 404 Not Found (0.020093s, 49.769/s).
+[Sat Mar 17 11:04:51 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 11:04:51 2012] [debug] Dispatching callback.
+[Sat Mar 17 11:04:51 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 11:04:51 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 11:04:51 2012] [debug] 200 OK (0.042046s, 23.783/s).
+[Sat Mar 17 11:04:51 2012] [debug] GET /images/twitter_profile.png (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 11:04:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 17 11:04:51 2012] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 17 11:04:51 2012] [debug] 404 Not Found (0.006500s, 153.846/s).
+[Sat Mar 17 11:05:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 11:05:53 2012] [debug] Dispatching callback.
+[Sat Mar 17 11:05:53 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 11:05:53 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 11:05:53 2012] [debug] 200 OK (0.030170s, 33.146/s).
+[Sat Mar 17 13:07:08 2012] [info] Listening at "http://*:3000".
+[Sat Mar 17 13:07:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:07:33 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:07:34 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:07:34 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:07:34 2012] [debug] 200 OK (0.079150s, 12.634/s).
+[Sat Mar 17 13:08:41 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:08:41 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:08:41 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:08:41 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:08:41 2012] [debug] 200 OK (0.034443s, 29.033/s).
+[Sat Mar 17 13:37:37 2012] [info] Listening at "http://*:3000".
+[Sat Mar 17 13:37:40 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:37:40 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:37:40 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:37:40 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:37:40 2012] [debug] 200 OK (0.029759s, 33.603/s).
+[Sat Mar 17 13:38:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:38:31 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:38:31 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:38:31 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:38:31 2012] [debug] 200 OK (0.034269s, 29.181/s).
+[Sat Mar 17 13:38:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:38:43 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:38:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:38:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:38:43 2012] [debug] 200 OK (0.029839s, 33.513/s).
+[Sat Mar 17 13:39:05 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:39:05 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:39:05 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:39:05 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:39:05 2012] [debug] 200 OK (0.031262s, 31.988/s).
+[Sat Mar 17 13:39:57 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:39:57 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:39:57 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:39:57 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:39:57 2012] [debug] 200 OK (0.029513s, 33.883/s).
+[Sat Mar 17 13:40:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:40:19 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:40:19 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:40:19 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:40:19 2012] [debug] 200 OK (0.031010s, 32.248/s).
+[Sat Mar 17 13:42:48 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:42:48 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:42:49 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:42:49 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:42:49 2012] [debug] 200 OK (0.032251s, 31.007/s).
+[Sat Mar 17 13:47:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:47:46 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:47:46 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:47:46 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:47:46 2012] [debug] 200 OK (0.030283s, 33.022/s).
+[Sat Mar 17 13:50:46 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:50:46 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:50:46 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:50:46 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:50:46 2012] [debug] 200 OK (0.029463s, 33.941/s).
+[Sat Mar 17 13:51:29 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:51:29 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:51:29 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:51:29 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:51:29 2012] [debug] 200 OK (0.030692s, 32.582/s).
+[Sat Mar 17 13:51:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sat Mar 17 13:51:43 2012] [debug] Dispatching callback.
+[Sat Mar 17 13:51:43 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sat Mar 17 13:51:43 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sat Mar 17 13:51:43 2012] [debug] 200 OK (0.030931s, 32.330/s).
+[Sun Mar 18 02:12:31 2012] [info] Listening at "http://*:3000".
+[Sun Mar 18 02:12:44 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sun Mar 18 02:12:44 2012] [debug] Dispatching callback.
+[Sun Mar 18 02:12:44 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sun Mar 18 02:12:44 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Mar 18 02:12:44 2012] [debug] 200 OK (0.075954s, 13.166/s).
+[Sun Mar 18 02:12:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11).
+[Sun Mar 18 02:12:45 2012] [debug] Dispatching callback.
+[Sun Mar 18 02:12:45 2012] [debug] 200 OK (0.004360s, 229.358/s).
+[Sun Mar 18 02:31:04 2012] [debug] GET / (Anonymojo).
+[Sun Mar 18 02:31:04 2012] [debug] Dispatching callback.
+[Sun Mar 18 02:31:04 2012] [debug] Rendering template "presentation.html.ep" from DATA section.
+[Sun Mar 18 02:31:04 2012] [debug] Rendering template "layouts/default.html.ep" from DATA section.
+[Sun Mar 18 02:31:04 2012] [debug] 200 OK (0.083588s, 11.963/s).

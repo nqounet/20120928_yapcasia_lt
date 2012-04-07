@@ -1,0 +1,13 @@
+#shower .slide h2 {
+  font-family: "ヒラギノ角ゴ Pro", sans-serif;
+}
+#shower .slide.shout header h2 {
+  color: #579;
+  font-size: 150px;
+}
+#shower .slide.shout h2 {
+  font-size: 120px;
+}
+h1 { font-size: 2em }
+h2 { font-size: 1.6em }
+h3 { font-size: 1.3em }
